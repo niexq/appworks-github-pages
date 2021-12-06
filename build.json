@@ -15,5 +15,6 @@
         "libraryName": "@alifd/next"
       }
     ]
-  ]
+  ],
+  "publicPath": "./"
 }
