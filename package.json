@@ -2,6 +2,7 @@
   "name": "appworks-github-pages",
   "version": "0.1.0",
   "description": "使用 TypeScript，包含大量 UI 区块，比如图表、表单等。",
+  "homepage": "https://niexq.github.io/appworks-github-pages",
   "dependencies": {
     "@alifd/next": "^1.21.0",
     "moment": "^2.24.0",
